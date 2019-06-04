@@ -1,0 +1,2 @@
+# imagestripper
+strips images
